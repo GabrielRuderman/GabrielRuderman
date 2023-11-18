@@ -1,4 +1,4 @@
-![image](https://github.com/GabrielRuderman/GabrielRuderman/assets/26581497/d65b516e-801d-493d-a7bc-59096a5de541)- 👋 Hi, I’m @GabrielRuderman
+👋 Hi, I’m @GabrielRuderman
 - 👨‍🎓 I have a degree in systems engineering
 - 🎩 Senior React.js Developer
 - ⚙️ Experience with .NET and Node.js
