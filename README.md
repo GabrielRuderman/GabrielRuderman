@@ -1,9 +1,9 @@
 👋 Hi, I’m @GabrielRuderman
-- 👨‍🎓 I have a degree in systems engineering
-- 🎩 Senior React.js Developer
-- ⚙️ Experience with .NET and Node.js
+- 👨‍🎓 I have a degree as Software Engineer
+- 🎩 Sr. Full Stack Engineer with +8 years of experience
+- ⚙️ Experience with React, Next, .NET, Node
 - ☁️ AWS Cloud Practitioner Certified
-- 📫 How to contact me: gab.ruderman@gmail.com
+- 📫 How to contact me: gab.ruderman@gmail.com or https://www.linkedin.com/in/gabriel-ruderman/
 
 <!---
 GabrielRuderman/GabrielRuderman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
