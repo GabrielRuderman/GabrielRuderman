@@ -1,6 +1,6 @@
 👋 Hi, I’m @GabrielRuderman
 - 👨‍🎓 I have a degree as Software Engineer
-- 🎩 Sr. Full Stack Engineer with +8 years of experience
+- 🎩 Sr. Full Stack Engineer with +9 years of experience
 - ⚙️ Experience with React, Next, .NET, Node
 - ☁️ AWS Cloud Practitioner Certified
 - 📫 How to contact me: gab.ruderman@gmail.com or https://www.linkedin.com/in/gabriel-ruderman/
